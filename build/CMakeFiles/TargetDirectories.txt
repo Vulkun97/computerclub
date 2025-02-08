@@ -1,0 +1,3 @@
+/home/evgeny/projects/computerclub/build/CMakeFiles/club_log.dir
+/home/evgeny/projects/computerclub/build/CMakeFiles/edit_cache.dir
+/home/evgeny/projects/computerclub/build/CMakeFiles/rebuild_cache.dir

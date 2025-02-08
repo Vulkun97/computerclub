@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/club_log.dir/src/club.cpp.o CMakeFiles/club_log.dir/src/main.cpp.o -o club_log 
